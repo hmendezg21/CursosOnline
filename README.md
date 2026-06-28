@@ -18,7 +18,7 @@ Docente e investigador en las áreas de Electrónica, Automatización Industrial
 
 ### ⚡ Electrónica
 
-* 📖 [Electrónica 226 UPG](./Electrónica%20226%20UPG/)
+* 📖 [Electrónica 226 UPG](./Electronica_226_UPG/README.md)
 
 ---
 
