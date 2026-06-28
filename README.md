@@ -33,7 +33,7 @@ Docente e investigador en las áreas de Electrónica, Automatización Industrial
 
 * 📖 [Python desde Zero a Machine Learning](./Python%20desde%20Zero%20a%20Machine%20Learning/)
 * 📖 [Interfaces de Usuario en Python](./Interfaces%20de%20Usuario%20en%20Python/)
-* 📖 [Visión Artificial con Python](./Visión%20Artifical%20con%20Python/)
+* 📖 [Visión Artificial con Python](./Vision_Artifical_Python/)
 
 ---
 
