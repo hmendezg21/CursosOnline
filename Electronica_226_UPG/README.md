@@ -90,3 +90,7 @@ Cada sesión puede incluir:
 ---
 
 ⭐ **¡Disfruta el curso y practica cada circuito para fortalecer tus conocimientos en Electrónica!**
+
+📚 Accede al curso completo aquí:
+
+👉 [Ver curso en GitHub](https://github.com/hmendezg21/CursosOnline/tree/main/Electronica_226_UPG)
