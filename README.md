@@ -25,6 +25,8 @@ En este espacio encontrarás artículos, reflexiones, proyectos y contenidos ori
 🔗 Accede a las publicaciones aquí:  
 👉 [Ver publicaciones en Wix](https://hmendez97.wixsite.com/pyrob/publicaciones)
 
+---
+
 ## 📚 Índice de Cursos
 
 ### ⚡ Electrónica
