@@ -36,7 +36,9 @@ Funcionamiento del diodo Zener, regulación de voltaje y aplicaciones prácticas
 
 Principio de operación del transistor BJT utilizado como interruptor electrónico.
 
-[![Transistor como Switch](https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg)](LINK_VIDEO_3)
+<a href="https://www.youtube.com/watch?v=9e-K2Fm5uvo">
+  <img src="https://img.youtube.com/vi/9e-K2Fm5uvo/hqdefault.jpg" width="500">
+</a>
 
 ▶️ **Ver video**
 
@@ -46,7 +48,9 @@ Principio de operación del transistor BJT utilizado como interruptor electróni
 
 Análisis del punto de operación (Punto Q), polarización y estabilidad del transistor.
 
-[![Transistor en un Punto Q](https://img.youtube.com/vi/VIDEO_ID_4/maxresdefault.jpg)](LINK_VIDEO_4)
+<a href="https://www.youtube.com/watch?v=w6gdkX_xgSU">
+  <img src="https://img.youtube.com/vi/w6gdkX_xgSU/hqdefault.jpg" width="500">
+</a>
 
 ▶️ **Ver video**
 
