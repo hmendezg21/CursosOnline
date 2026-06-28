@@ -14,6 +14,17 @@ Docente e investigador en las áreas de Electrónica, Automatización Industrial
 
 ---
 
+## 🌐 Publicaciones de divulgación
+
+Además del repositorio, se cuenta con una sección de publicaciones y materiales de divulgación científica y tecnológica:
+
+Publicaciones de divulgación científica y tecnológica
+
+En este espacio encontrarás artículos, reflexiones, proyectos y contenidos orientados a la difusión del conocimiento en ingeniería y tecnología.
+
+🔗 Accede a las publicaciones aquí:  
+👉 [Ver publicaciones en Wix](https://hmendez97.wixsite.com/pyrob/publicaciones)
+
 ## 📚 Índice de Cursos
 
 ### ⚡ Electrónica
