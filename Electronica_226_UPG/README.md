@@ -12,7 +12,9 @@ En este curso aprenderás los fundamentos de la electrónica analógica mediante
 
 Introducción al funcionamiento del diodo, polarización directa e inversa, circuitos rectificadores y aplicaciones básicas.
 
-[![Circuitos con Diodos](https://img.youtube.com/vi/12TYmHqYXeU/maxresdefault.jpg)](https://youtu.be/12TYmHqYXeU)
+<a href="https://youtu.be/12TYmHqYXeU">
+  <img src="https://img.youtube.com/vi/12TYmHqYXeU/hqdefault.jpg" width="300">
+</a>
 
 ▶️ **Ver video**
 
