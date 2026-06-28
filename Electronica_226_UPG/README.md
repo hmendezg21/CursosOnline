@@ -13,7 +13,7 @@ En este curso aprenderás los fundamentos de la electrónica analógica mediante
 Introducción al funcionamiento del diodo, polarización directa e inversa, circuitos rectificadores y aplicaciones básicas.
 
 <a href="https://youtu.be/12TYmHqYXeU">
-  <img src="https://img.youtube.com/vi/12TYmHqYXeU/hqdefault.jpg" width="300">
+  <img src="https://img.youtube.com/vi/12TYmHqYXeU/hqdefault.jpg" width="500">
 </a>
 
 ▶️ **Ver video**
@@ -24,7 +24,9 @@ Introducción al funcionamiento del diodo, polarización directa e inversa, circ
 
 Funcionamiento del diodo Zener, regulación de voltaje y aplicaciones prácticas.
 
-[![Diodo Zener](https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg)](LINK_VIDEO_2)
+<a href="https://www.youtube.com/watch?v=VODrFpnHxNc">
+  <img src="https://img.youtube.com/vi/VODrFpnHxNc/hqdefault.jpg" width="500">
+</a>
 
 ▶️ **Ver video**
 
