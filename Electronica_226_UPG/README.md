@@ -56,6 +56,18 @@ Análisis del punto de operación (Punto Q), polarización y estabilidad del tra
 
 ---
 
+## 🔹 Sesión 5 - Introducción a Electrónica Digital
+
+Fundamentos de la electrónica digital, el funcionamiento de las compuertas lógicas y el uso de CPLD para implementar circuitos digitales mediante programación en lugar de cableado tradicional.
+
+<a href="https://www.youtube.com/watch?v=jH1_ueA5Mho">
+  <img src="https://img.youtube.com/vi/jH1_ueA5Mho/hqdefault.jpg" width="500">
+</a>
+
+▶️ **Ver video**
+
+---
+
 # 🎯 Objetivos del curso
 
 Al finalizar este curso serás capaz de:
