@@ -68,6 +68,18 @@ Fundamentos de la electrónica digital, el funcionamiento de las compuertas lóg
 
 ---
 
+## 🔹 Sesión 6 - Compuertas Básicas con VHDL
+
+Procedimiento completo para diseñar, programar, cargar y verificar en una tarjeta CPLD un conjunto de compuertas lógicas utilizando VHDL, sustituyendo el cableado tradicional por una implementación programable.
+
+<a href="https://www.youtube.com/watch?v=5Q5uvtNR0A0">
+  <img src="https://img.youtube.com/vi/5Q5uvtNR0A0/hqdefault.jpg" width="500">
+</a>
+
+▶️ **Ver video**
+
+---
+
 # 🎯 Objetivos del curso
 
 Al finalizar este curso serás capaz de:
