@@ -92,6 +92,30 @@ Procedimiento completo para diseñar, programar, cargar y verificar en una tarje
 
 ---
 
+## 🔹 Sesión 8 - Decodificadores con VHDL
+
+Procedimiento completo para diseñar, programar, cargar y verificar en una tarjeta CPLD una tabla de verdad, para formar un decodificador de BCD a 7 segmentos.
+
+<a href="https://www.youtube.com/watch?v=uoccrp57tvw">
+  <img src="https://img.youtube.com/vi/uoccrp57tvw/hqdefault.jpg" width="500">
+</a>
+
+▶️ **Ver video**
+
+---
+
+## 🔹 Sesión 9 - Contadores con VHDL
+
+Procedimiento completo para diseñar, programar, cargar y verificar en una tarjeta CPLD un contador de "0000" a "1111" up/down con reset y decodificado a un display de 7 segmentos
+
+<a href="https://www.youtube.com/watch?v=GJqJ6sacRBU">
+  <img src="https://img.youtube.com/vi/GJqJ6sacRBU/hqdefault.jpg" width="500">
+</a>
+
+▶️ **Ver video**
+
+---
+
 # 🎯 Objetivos del curso
 
 Al finalizar este curso serás capaz de:
