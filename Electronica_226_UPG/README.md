@@ -80,6 +80,18 @@ Procedimiento completo para diseñar, programar, cargar y verificar en una tarje
 
 ---
 
+## 🔹 Sesión 7 - Circuitos Combinacionales con VHDL
+
+Procedimiento completo para diseñar, programar, cargar y verificar en una tarjeta CPLD un conjunto de compuertas lógicas utilizando VHDL, sustituyendo el cableado tradicional por una implementación programable mediante ecuaciones lógicas.
+
+<a href="https://www.youtube.com/watch?v=Pw7G--8f_6I">
+  <img src="https://img.youtube.com/vi/Pw7G--8f_6I/hqdefault.jpg" width="500">
+</a>
+
+▶️ **Ver video**
+
+---
+
 # 🎯 Objetivos del curso
 
 Al finalizar este curso serás capaz de:
